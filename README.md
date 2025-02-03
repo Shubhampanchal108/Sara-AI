@@ -72,5 +72,5 @@ Feel free to fork this repo, submit issues, or make a pull request!
 This project is licensed under the MIT License.
 
 ---
-### 💡 Made with ❤️ by [Shubham](https:https://github.com/Shubhampanchal108/)
+### 💡 Made with ❤️ by [Shubham](https://github.com/Shubhampanchal108)
 
