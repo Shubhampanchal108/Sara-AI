@@ -24,7 +24,7 @@ SARA AI (Smart Assistant for Real-time Assistance) is an advanced AI-powered ass
 ## Technologies Used
 - **Front-End**: React.js, Tailwind CSS
 - **Back-End**: Node.js, Express.js
-- **AI & NLP**: OpenAI GPT, Python (for advanced NLP features)
+- **AI & NLP**: Gemini, python (for advanced NLP features)
 - **Database**: MongoDB
 - **APIs**: Integration with third-party APIs for extended functionalities
 
