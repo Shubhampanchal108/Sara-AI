@@ -35,7 +35,7 @@ sara-ai/
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/sara-ai.git
+git clone https://github.com/Shubhampanchal108/Sara-AI.git
 cd sara-ai
 ```
 
@@ -56,17 +56,6 @@ npm start
 ```
 The app will be running on `http://localhost:3000/`.
 
-## 🔥 API Integration
-Sara AI fetches responses using the Gemini API:
-```javascript
-const fetchResponse = async (query) => {
-  const response = await fetch(`https://api.gemini.com/ai?query=${query}`, {
-    headers: { 'Authorization': `Bearer ${process.env.REACT_APP_GEMINI_API_KEY}` }
-  });
-  const data = await response.json();
-  return data;
-};
-```
 
 ## 🎨 UI Preview
 ![Sara AI UI](https://via.placeholder.com/800x400.png?text=Sara+AI+Preview)
@@ -83,5 +72,5 @@ Feel free to fork this repo, submit issues, or make a pull request!
 This project is licensed under the MIT License.
 
 ---
-### 💡 Made with ❤️ by [Shubham](https://github.com/your-username)
+### 💡 Made with ❤️ by [Shubham](https:https://github.com/Shubhampanchal108)
 
